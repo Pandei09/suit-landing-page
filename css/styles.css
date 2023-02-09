@@ -43,6 +43,20 @@ li{
         position: absolute;
         align-items: center;
     }
+    .btn-link:hover{
+        align-self: flex-end;
+        list-style: none;
+        width: 154px;
+        height: 48px;
+        line-height: 48px;
+        border-radius: 6PX;
+        border:1px solid #172339;
+        text-align: center;
+        position: absolute;
+        align-items: center;
+        background-color: #172339;
+    }
+
     .image-curve{
         position: absolute;
         top: 2%;
