@@ -223,7 +223,7 @@ li{
         left: 45%;
         bottom: -4px;
         color: #172339;
-        font-size: 32px;
+        font-size: 18px;
 
     }
     .footer-images{
@@ -414,6 +414,8 @@ li{
         bottom: -4px;
         color: #172339;
         font-size: 32px;
+        font-size: 18px;
+
     }
     .footer-images{
         position: absolute;
@@ -601,7 +603,7 @@ li{
         left: 45%;
         bottom: -4px;
         color: #172339;
-        font-size: 32px;
+        font-size: 18px;
     }
     .footer-images{
         position: absolute;
@@ -793,7 +795,7 @@ li{
         left: 45%;
         bottom: -4px;
         color: #172339;
-        font-size: 32px;
+        font-size: 18px;
     }
     .footer-images{
         position: absolute;
@@ -985,7 +987,7 @@ li{
         position: absolute;
         left: 45%;
         bottom: -4px;
-        font-size: 32px;
+        font-size: 18px;
 
     }
     .footer-images{
@@ -1202,7 +1204,7 @@ li{
         margin-bottom: 40%;
         width: 200px;
         margin-left: -55%;
-        
+
     }
     .footer-images{
         display: flex;
