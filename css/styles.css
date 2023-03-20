@@ -444,7 +444,9 @@ li{
 }
 @media screen and (max-width:499px){
     .container{
-        width: 100%;
+        width: 90%;
+        left: 5%;
+        right: 5%;
     }
     .main-sm{
         width: 100%;
